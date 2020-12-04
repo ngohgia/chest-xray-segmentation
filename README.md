@@ -2,7 +2,7 @@
 
 By Gia Ngo, Matthew Pool, Jianlin Zhou
 
-Predict bounding boxes of lung opacities in chest X-ray imagesi using UNet with encoder backbone transfered from ResNet34
+Predict bounding boxes of lung opacities in chest X-ray images using UNet with encoder backbone transfered from ResNet34
 
 ![Overview](/images/overview.png)
 
